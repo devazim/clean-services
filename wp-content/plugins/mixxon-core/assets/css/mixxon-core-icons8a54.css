@@ -1,0 +1,165 @@
+@font-face {
+  font-family: 'mixxon';
+  src:  url('../fonts/mixxon2b8f.eot?tbg6p3');
+  src:  url('../fonts/mixxon2b8f.eot?tbg6p3#iefix') format('embedded-opentype'),
+    url('../fonts/mixxon2b8f.ttf?tbg6p3') format('truetype'),
+    url('../fonts/mixxon2b8f.woff?tbg6p3') format('woff'),
+    url('../fonts/mixxon2b8f.svg?tbg6p3#mixxon') format('svg');
+  font-weight: normal;
+  font-style: normal;
+  font-display: block;
+}
+
+.icon,
+.fashm {
+    /* use !important to prevent issues with browser extensions that change fonts */
+    font-family: 'mixxon' !important;
+    speak: none;
+    font-style: normal;
+    font-weight: normal;
+    font-variant: normal;
+    text-transform: none;
+    line-height: 1;
+
+    /* Better Font Rendering =========== */
+    -webkit-font-smoothing: antialiased;
+    -moz-osx-font-smoothing: grayscale;
+}
+.icon-accounting:before {
+  content: "\e900";
+}
+.icon-bathtub:before {
+  content: "\e901";
+}
+.icon-broom:before {
+  content: "\e902";
+}
+.icon-broom-2:before {
+  content: "\e903";
+}
+.icon-broom-alt:before {
+  content: "\e904";
+}
+.icon-brush:before {
+  content: "\e905";
+}
+.icon-bucket:before {
+  content: "\e906";
+}
+.icon-bucket-2:before {
+  content: "\e907";
+}
+.icon-bucket-alt:before {
+  content: "\e908";
+}
+.icon-calendar:before {
+  content: "\e909";
+}
+.icon-cleaner:before {
+  content: "\e90a";
+}
+.icon-cleaning:before {
+  content: "\e90b";
+}
+.icon-cleaning-2:before {
+  content: "\e90c";
+}
+.icon-cleaning-staff:before {
+  content: "\e90d";
+}
+.icon-cleaning-tools:before {
+  content: "\e90e";
+}
+.icon-contract:before {
+  content: "\e90f";
+}
+.icon-diamond:before {
+  content: "\e910";
+}
+.icon-dishwasher:before {
+  content: "\e911";
+}
+.icon-document:before {
+  content: "\e912";
+}
+.icon-email:before {
+  content: "\e913";
+}
+.icon-factory:before {
+  content: "\e914";
+}
+.icon-glass-cleaner:before {
+  content: "\e915";
+}
+.icon-glass-cleaning:before {
+  content: "\e916";
+}
+.icon-house-cleaning:before {
+  content: "\e917";
+}
+.icon-household:before {
+  content: "\e918";
+}
+.icon-housekeeper:before {
+  content: "\e919";
+}
+.icon-housekeeping:before {
+  content: "\e91a";
+}
+.icon-housekeeping-alt:before {
+  content: "\e91b";
+}
+.icon-hygiene:before {
+  content: "\e91c";
+}
+.icon-hygiene-products:before {
+  content: "\e91d";
+}
+.icon-location:before {
+  content: "\e91e";
+}
+.icon-lotion:before {
+  content: "\e91f";
+}
+.icon-mop:before {
+  content: "\e920";
+}
+.icon-mop-2:before {
+  content: "\e921";
+}
+.icon-mop-3:before {
+  content: "\e922";
+}
+.icon-mop-alt:before {
+  content: "\e923";
+}
+.icon-phone-call:before {
+  content: "\e924";
+}
+.icon-shaving-brush:before {
+  content: "\e925";
+}
+.icon-spray:before {
+  content: "\e926";
+}
+.icon-support:before {
+  content: "\e927";
+}
+.icon-toilet:before {
+  content: "\e928";
+}
+.icon-toilet-alt:before {
+  content: "\e929";
+}
+.icon-vacuum-cleaner:before {
+  content: "\e92a";
+}
+.icon-wardrobe:before {
+  content: "\e92b";
+}
+.icon-window-cleaner:before {
+  content: "\e92c";
+}
+.icon-wipe:before {
+  content: "\e92d";
+}
